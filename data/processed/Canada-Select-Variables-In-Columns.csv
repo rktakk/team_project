@@ -1,8 +1,4 @@
-﻿Country Name,Canada,Canada,Canada
-Country Code,CAN,CAN,CAN
-Indicator Name,Population growth (annual %),"Fertility rate, total (births per woman)",Net migration
-Indicator Code,SP.POP.GROW,SP.DYN.TFRT.IN,SM.POP.NETM
-1960,,3.811,44527
+﻿Year,Population growth (annual %),"Fertility rate, total (births per woman)",Net migration
 1961,1.999184557,3.753,24186
 1962,1.859888233,3.681,26210
 1963,1.862845928,3.607,40913
@@ -64,5 +60,3 @@ Indicator Code,SP.POP.GROW,SP.DYN.TFRT.IN,SM.POP.NETM
 2019,1.436136823,1.47,391914
 2020,1.073795827,1.41,195181
 2021,0.575421916,1.43,195181
-2022,1.823370422,,248586
-2023,,,249746
